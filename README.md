@@ -105,13 +105,11 @@ Slicers: Category
 
 Includes:
 
-Payment Method Analysis
+-Payment Method Analysis
 
-Seasonal Sales Trends
+-Location-wise Revenue
 
-Location-wise Revenue
-
-Category-wise Performance
+-Category-wise Performance
 
 The dashboards are fully interactive and designed for business decision-making.
 
