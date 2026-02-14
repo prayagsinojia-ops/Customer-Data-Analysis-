@@ -25,9 +25,13 @@ The dataset was provided by Datamites™ as part of a professional analytics tra
 ## 2. Business Problem Statement
 
 Organizations often struggle to:
+
 -Identify high-value customer segments
+
 -Understand revenue contribution by product category
+
 -Track demographic buying behavior
+
 -Evaluate payment preferences
 
 
@@ -42,14 +46,23 @@ Dataset Description:
 
 The dataset contains structured transactional customer data including:
 -Customer ID
+
 -Age
+
 -Gender
+
 -Product Category
+
 -Quantity Purchased
+
 -Purchase Amount (USD)
+
 -Payment Method
+
 -Location
+
 -Season
+
 -Invoice Date
 
 
@@ -59,8 +72,11 @@ The dataset contains structured transactional customer data including:
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook
+
 -Power BI
+
 -Power Query
+
 -Excel
 
 
@@ -103,6 +119,58 @@ Includes:
 -Category-wise Performance
 
 The dashboards are fully interactive and designed for business decision-making.
+
+
+
+##  7. Key Business Insights
+
+Clothing category contributes the highest revenue.
+
+Female customers generate higher revenue compared to male customers.
+
+Adult age group dominates total purchase amount.
+
+Credit Card is the most preferred payment method.
+
+Certain seasons show peak sales performance.
+
+
+
+## 9. Conclusion
+
+This project demonstrates:
+
+Data cleaning and preprocessing skills
+
+Business-oriented exploratory data analysis
+
+KPI building and metric selection
+
+Dashboard storytelling for stakeholders
+
+End-to-end analytics workflow
+
+It reflects practical understanding of customer analytics and business intelligence concepts.
+
+
+
+## ## About Me
+Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics.
+Actively building real-world analytics projects focused on business problem-solving.
+
+Contact: 97231 00943 <br>
+Gmail: prayagsinojia@gmail.com <br>
+prayagsinojiya-<a href='https://www.linkedin.com/in/prayagsinojiya/'>Linkdin</a><br>
+
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-EDA-orange?logo=jupyter)
+![Project Type](https://img.shields.io/badge/Type-Business%20Analytics-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
 
 
 
