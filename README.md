@@ -1,4 +1,4 @@
-# Customer-Data-Analysis-
+# Customer-Data-Analysis
 
 Customer Data Analysis is a business-focused analytics project aimed at understanding customer purchasing behavior, revenue contribution, and demographic trends.
 
