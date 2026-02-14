@@ -105,7 +105,9 @@ This notebook performs a structured analysis of customer transaction data to ide
 
 ##  6. Power BI Dashboard
 
-Two interactive dashboards were developed:
+Interactive Power BI dashboards were built to visualize KPIs, revenue trends, and customer segmentation insights.
+Below are static previews of the final dashboards:
+
 
 Dashboard 1 – Executive Overview
 
