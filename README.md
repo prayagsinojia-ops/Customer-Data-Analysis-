@@ -81,6 +81,27 @@ Jupyter Notebook
 <br><br>
 
 
+## 5. Exploratory Data Analysis (EDA)
+
+-<a href='https://github.com/prayagsinojia-ops/Customer-Data-Analysis-/blob/main/Customer%20Analysis%20Notebook.ipynb'> Customer Analysis Notebook</a>
+
+This notebook performs a structured analysis of customer transaction data to identify revenue drivers, demographic trends, and purchasing behavior patterns.
+
+🔎 Analysis Includes:
+
+Revenue calculation and feature engineering (Age_Group creation)
+
+Gender-wise quantity and revenue comparison
+
+Product category performance analysis
+
+Seasonal revenue trend evaluation
+
+Payment method distribution analysis
+
+Customer demographic segmentation
+
+
 ##  5. Power BI Dashboard
 
 Two interactive dashboards were developed:
