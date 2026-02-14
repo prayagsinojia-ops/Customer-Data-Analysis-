@@ -111,6 +111,8 @@ Below are static previews of the final dashboards:
 
 Dashboard 1 – Executive Overview
 
+![Dashboard](Dashboard 1.png) <br><br>
+
 -<a href='https://github.com/prayagsinojia-ops/Customer-Data-Analysis-/blob/main/Dashboard%201.png'> Dashboard 1</a>
 
 Includes:
