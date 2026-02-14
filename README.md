@@ -3,7 +3,7 @@
 Customer Data Analysis is a business-focused analytics project aimed at understanding customer purchasing behavior, revenue contribution, and demographic trends.
 
 This project involves data cleaning, exploratory data analysis (EDA), KPI generation, and interactive Power BI dashboard development to derive actionable business insights.
-<br>
+<br><br>
 
 
 ## 1. Project Overview
@@ -19,7 +19,7 @@ The objective was to transform raw transactional data into meaningful business i
 -KPI-driven business storytelling
 
 The dataset was provided by Datamites™ as part of a professional analytics training program
-<br>
+<br><br>
 
 
 ## 2. Business Problem Statement
@@ -33,7 +33,7 @@ Organizations often struggle to:
 -Track demographic buying behavior
 
 -Evaluate payment preferences
-<br>
+<br><br>
 
 
 ## 3. Dataset Used
@@ -64,7 +64,7 @@ The dataset contains structured transactional customer data including:
 -Season
 
 -Invoice Date
-<br>
+<br><br>
 
 
 ## 4. Tools & Technologies Used
@@ -78,7 +78,7 @@ Jupyter Notebook
 -Power Query
 
 -Excel
-<br>
+<br><br>
 
 
 ##  6. Power BI Dashboard
@@ -119,7 +119,7 @@ Includes:
 -Category-wise Performance
 
 The dashboards are fully interactive and designed for business decision-making.
-<br>
+<br><br>
 
 
 ##  7. Key Business Insights
@@ -133,7 +133,7 @@ The dashboards are fully interactive and designed for business decision-making.
 -Credit Card is the most preferred payment method.
 
 -Certain seasons show peak sales performance.
-<br>
+<br><br>
 
 
 ## 9. Conclusion
@@ -151,7 +151,7 @@ This project demonstrates:
 -End-to-end analytics workflow
 
 It reflects practical understanding of customer analytics and business intelligence concepts.
-<br>
+<br><br>
 
 
 ## About Me
