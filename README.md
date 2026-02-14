@@ -89,20 +89,21 @@ This notebook performs a structured analysis of customer transaction data to ide
 
 🔎 Analysis Includes:
 
-Revenue calculation and feature engineering (Age_Group creation)
+-Revenue calculation and feature engineering (Age_Group creation)
 
-Gender-wise quantity and revenue comparison
+-Gender-wise quantity and revenue comparison
 
-Product category performance analysis
+-Product category performance analysis
 
-Seasonal revenue trend evaluation
+-Seasonal revenue trend evaluation
 
-Payment method distribution analysis
+-Payment method distribution analysis
 
-Customer demographic segmentation
+-Customer demographic segmentation
+<br><br>
 
 
-##  5. Power BI Dashboard
+##  6. Power BI Dashboard
 
 Two interactive dashboards were developed:
 
@@ -144,7 +145,7 @@ The dashboards are fully interactive and designed for business decision-making.
 <br><br>
 
 
-##  6. Key Business Insights
+##  7. Key Business Insights
 
 -Clothing category contributes the highest revenue.
 
@@ -158,7 +159,7 @@ The dashboards are fully interactive and designed for business decision-making.
 <br><br>
 
 
-## 7. Conclusion
+## 8. Conclusion
 
 This project demonstrates:
 
