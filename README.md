@@ -26,13 +26,13 @@ The dataset was provided by Datamites™ as part of a professional analytics tra
 
 Organizations often struggle to:
 
-Identify high-value customer segments
+-Identify high-value customer segments
 
-Understand revenue contribution by product category
+-Understand revenue contribution by product category
 
-Track demographic buying behavior
+-Track demographic buying behavior
 
-Evaluate payment preferences
+-Evaluate payment preferences
 
 
 
@@ -91,19 +91,19 @@ Two interactive dashboards were developed:
 
 Includes:
 
-Total Revenue KPI
+-Total Revenue KPI
 
-Total Transactions
+-Total Transactions
 
-Total Quantity Sold
+-Total Quantity Sold
 
-Revenue by Category
+-Revenue by Category
 
-Revenue by Gender
+-Revenue by Gender
 
-Revenue by Age Group
+-Revenue by Age Group
 
-Slicers: Category
+-Slicers: Category
 
 
 📌 Dashboard 2 – Customer Insights
@@ -124,15 +124,15 @@ The dashboards are fully interactive and designed for business decision-making.
 
 ##  7. Key Business Insights
 
-Clothing category contributes the highest revenue.
+-Clothing category contributes the highest revenue.
 
-Female customers generate higher revenue compared to male customers.
+-Female customers generate higher revenue compared to male customers.
 
-Adult age group dominates total purchase amount.
+-Adult age group dominates total purchase amount.
 
-Credit Card is the most preferred payment method.
+-Credit Card is the most preferred payment method.
 
-Certain seasons show peak sales performance.
+-Certain seasons show peak sales performance.
 
 
 
@@ -140,27 +140,27 @@ Certain seasons show peak sales performance.
 
 This project demonstrates:
 
-Data cleaning and preprocessing skills
+-Data cleaning and preprocessing skills
 
-Business-oriented exploratory data analysis
+-Business-oriented exploratory data analysis
 
-KPI building and metric selection
+-KPI building and metric selection
 
-Dashboard storytelling for stakeholders
+-Dashboard storytelling for stakeholders
 
-End-to-end analytics workflow
+-End-to-end analytics workflow
 
 It reflects practical understanding of customer analytics and business intelligence concepts.
 
 
 
-## ## About Me
+## About Me
 Aspiring Data Analyst skilled in Python, SQL, Power BI, and Business Analytics.
 Actively building real-world analytics projects focused on business problem-solving.
 
 Contact: 97231 00943 <br>
 Gmail: prayagsinojia@gmail.com <br>
-prayagsinojiya-<a href='https://www.linkedin.com/in/prayagsinojiya/'>Linkdin</a><br>
+prayagsinojiya-<a href='https://www.linkedin.com/in/prayagsinojiya/'>Linkdin</a><br><br><br>
 
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
