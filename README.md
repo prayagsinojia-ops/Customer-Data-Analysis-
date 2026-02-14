@@ -26,13 +26,13 @@ The dataset was provided by Datamites™ as part of a professional analytics tra
 
 Organizations often struggle to:
 
--Identify high-value customer segments
+Identify high-value customer segments
 
--Understand revenue contribution by product category
+Understand revenue contribution by product category
 
--Track demographic buying behavior
+Track demographic buying behavior
 
--Evaluate payment preferences
+Evaluate payment preferences
 
 
 
