@@ -81,11 +81,11 @@ Jupyter Notebook
 <br><br>
 
 
-##  6. Power BI Dashboard
+##  5. Power BI Dashboard
 
 Two interactive dashboards were developed:
 
-📌 Dashboard 1 – Executive Overview
+Dashboard 1 – Executive Overview
 
 -<a href='https://github.com/prayagsinojia-ops/Customer-Data-Analysis-/blob/main/Dashboard%201.png'> Dashboard 1</a>
 
@@ -104,9 +104,10 @@ Includes:
 -Revenue by Age Group
 
 -Slicers: Category
+<br>
 
 
-📌 Dashboard 2 – Customer Insights
+Dashboard 2 – Customer Insights
 
 -<a href='https://github.com/prayagsinojia-ops/Customer-Data-Analysis-/blob/main/Dashboard%202.png'> Dashboard 2</a>
 
@@ -122,7 +123,7 @@ The dashboards are fully interactive and designed for business decision-making.
 <br><br>
 
 
-##  7. Key Business Insights
+##  6. Key Business Insights
 
 -Clothing category contributes the highest revenue.
 
@@ -136,7 +137,7 @@ The dashboards are fully interactive and designed for business decision-making.
 <br><br>
 
 
-## 9. Conclusion
+## 7. Conclusion
 
 This project demonstrates:
 
